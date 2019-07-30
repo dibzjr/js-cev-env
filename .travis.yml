@@ -1,3 +1,4 @@
-languange: node_js
+os: windows
+language: node_js
 node_js:
-  - "stable"
+  - "6"
